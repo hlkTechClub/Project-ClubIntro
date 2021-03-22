@@ -2,9 +2,11 @@
 The very first project of HLK Tech Club.
 
 # Credits and License
+Members who participated in the project have their names written on the html pages.
+
 Template from [templated.co](templated.co).
 
-Member page used [Bootstrap 5](getbootstrap.com)
+Member page used [Bootstrap 5](getbootstrap.com).
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
